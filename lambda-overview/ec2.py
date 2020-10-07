@@ -1,5 +1,6 @@
 # This program creates an ec2 instance;
-# There is: 
+# Note: There is: 
+
 # a. client
 # b. resource
 
