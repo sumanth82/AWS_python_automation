@@ -12,8 +12,8 @@ response=ec2.run_instances(
     ImageId='ami-032930428bf1abbff',
     InstanceType='t2.micro',
     KeyName='timon',
-    MinCount=1,
-    MaxCount=1
+    MinCount=2,
+    MaxCount=2
 )
 
 print(response)
